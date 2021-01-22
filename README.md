@@ -12,9 +12,10 @@
 - ☕ I love energy drink
 - 🎉 Fun fact: I love to play pc games and listen to music
 
-<h1>Skills 🚀</h1>
+<h1>Skills 🚀</h1> 
 
 ![Website](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+![Website](https://img.shields.io/badge/java-%235382a1.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![Website](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
 ![Website](https://img.shields.io/badge/Django%20-%234ea94b.svg?&style=for-the-badge&logo=Django&logoColor=white)
 ![Website](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
