@@ -35,6 +35,18 @@
 ![Website](https://img.shields.io/badge/VS--CODE-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Website](https://img.shields.io/badge/AndroidStudio-%233DDC84.svg?&style=for-the-badge&logo=android-studio&logoColor=white)
 
+<h1 style="margin-top:30px;">⚡ Most Used Languages</h1>
+
+[![Top Langs](https://github-readme-stats.pythonhubpy.vercel.app/api/top-langs/?username=GyroGyro&langs_count=6&theme=dracula&hide_border=true)](https://github.com/pythonhubpy/)
+
+<h1>⚡ Github Stats</h1>
+
+[![GitHub Stats](https://github-readme-stats.pythonhubpy.vercel.app/api?username=GyroGyro&count_private=true&show_icons=true&hide_border=true&theme=dracula)](https://github.com/pythonhubpy/)
+
+<h1 style="margin-top:20px;">⚡ Weekly Stats</h1>
+
+[![Weekly Stats](https://github-readme-stats.pythonhubpy.vercel.app/api/wakatime?username=GyroGyro&theme=dracula&hide_border=true)](https://github.com/pythonhubpy/)
+
 
 [telegram]: https://t.me/GyroGyro
 [instagram]: https://www.instagram.com/GyroGyro.py
