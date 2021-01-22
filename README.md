@@ -37,15 +37,15 @@
 
 <h1 style="margin-top:30px;">⚡ Most Used Languages</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyroGyro&langs_count=6&theme=dracula&hide_border=true)](https://github.com/GyroGyro/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyroGyro&langs_count=6&theme=cobalt&hide_border=true)](https://github.com/GyroGyro/)
 
 <h1>⚡ Github Stats</h1>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GyroGyro&count_private=true&show_icons=true&hide_border=true&theme=dracula)](https://github.com/pythonhubpy/)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GyroGyro&count_private=true&show_icons=true&hide_border=true&theme=cobalt)](https://github.com/pythonhubpy/)
 
 <h1 style="margin-top:20px;">⚡ Weekly Stats</h1>
 
-[![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=GyroGyro&theme=dracula&hide_border=true)](https://github.com/GyroGyro/)
+[![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=GyroGyro&theme=cobalt&hide_border=true)](https://github.com/GyroGyro/)
 
 
 [telegram]: https://t.me/GyroGyro
