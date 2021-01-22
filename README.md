@@ -10,7 +10,7 @@
 - 🥅 To become a Full stack Developer 👩‍💻
 - 👯‍♂️ I am looking to collaborate with other developers
 - ☕ I love energy drink
-- 🎉 Fun fact: I love to play pc games and listen to music
+- 🎉 Fun fact: I love listen to music
 
 <h1>Skills 🚀</h1> 
 
