@@ -1,7 +1,6 @@
 <h1>Hey there 👋, I am Mattia - aka GyroGyro</h1>
 
 [![Website](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
-[![Website](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![Website](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://github.com/GyroGyro)
 [![Website](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mattix01.royale@gmail.com)
 
@@ -16,7 +15,7 @@
 <h1>Skills 🚀</h1>
 
 ![Website](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
-[![Website](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
+![Website](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
 ![Website](https://img.shields.io/badge/Django%20-%234ea94b.svg?&style=for-the-badge&logo=Django&logoColor=white)
 ![Website](https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white)
 ![Website](https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)
