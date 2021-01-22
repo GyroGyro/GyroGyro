@@ -37,7 +37,7 @@
 
 <h1 style="margin-top:30px;">⚡ Most Used Languages</h1>
 
-[![Top Langs](https://github-readme-stats.pythonhubpy.vercel.app/api/top-langs/?username=willianrod&langs_count=6&theme=dracula&hide_border=true)](https://github.com/GyroGyro/)
+[![Top Langs](https://github-readme-stats.pythonhubpy.vercel.app/api/top-langs/?username=pyhtonhubpy&langs_count=6&theme=dracula&hide_border=true)](https://github.com/GyroGyro/)
 
 <h1>⚡ Github Stats</h1>
 
