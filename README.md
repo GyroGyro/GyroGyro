@@ -1,7 +1,7 @@
 <h1>Hey there 👋, I am Mattia - aka GyroGyro</h1>
 
 [![Website](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
-[![Website](https://img.shields.io/badge/telegram-%23FF0000.svg?&style=for-the-badge&logo=telegram&logoColor=white")](https://t.me/GyroGyro)
+[![Website](https://img.shields.io/badge/telegram-%230088CC.svg?&style=for-the-badge&logo=telegram&logoColor=white")](https://t.me/GyroGyro)
 [![Website](https://img.shields.io/badge/discord-%23D14836.svg?&style=for-the-badge&logo=discord&logoColor=white)](GyroGyro#2055)
 
 <h2>I'm a Student and Developer</h2>
