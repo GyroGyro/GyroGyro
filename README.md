@@ -37,7 +37,7 @@
 
 <h1 style="margin-top:30px;">⚡ Most Used Languages</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyroGyr&langs_count=6&theme=cobalt&hide_border=true)](https://github.com/GyroGyro/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyroGyro&langs_count=6&theme=cobalt&hide_border=true)](https://github.com/GyroGyro/)
 
 <h1>⚡ Github Stats</h1>
 
