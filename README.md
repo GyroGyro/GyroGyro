@@ -6,7 +6,7 @@
 
 <h2>I'm a Student and Developer</h2>
 
-- 🏫 Learning Python, C++, C#, and Java🔥🔥
+- 🏫 Learning Python, C++, C#, JavaScript and Java🔥🔥
 - 🥅 To become a Full stack Developer 👩‍💻
 - 👯‍♂️ I am looking to collaborate with other developers
 - ☕ I love energy drink
