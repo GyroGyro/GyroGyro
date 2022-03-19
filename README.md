@@ -1,4 +1,4 @@
-<h1>Hey there 👋, I am Mattia - aka GyroGyro</h1>
+<h1>Hey there 👋, I am GyroGyro</h1>
 
 [![Website](https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 [![Website](https://img.shields.io/badge/telegram-%230088CC.svg?&style=for-the-badge&logo=telegram&logoColor=white")][telegram]
@@ -6,11 +6,10 @@
 
 <h2>I'm a Student and Developer</h2>
 
-- 🏫 Learning Python, C++, C#, JavaScript and Java🔥🔥
+- 🏫 Learning Python, JavaScript and Java🔥🔥
 - 🥅 To become a Full stack Developer 👩‍💻
 - 👯‍♂️ I am looking to collaborate with other developers
 - ☕ I love energy drink
-- 🎉 Fun fact: I love listen to music
 
 <h1>Skills 🚀</h1> 
 
