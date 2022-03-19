@@ -45,7 +45,7 @@
 
 <h1 style="margin-top:20px;">⚡ Weekly Stats</h1>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GyroGyro)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mattia&langs_count=6&theme=cobalt&hide_border=true)](https://github.com/GyroGyro/)
 
 
 [telegram]: https://t.me/GyroGyro
