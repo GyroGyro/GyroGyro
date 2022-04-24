@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 [![Website](https://img.shields.io/badge/telegram-%230088CC.svg?&style=for-the-badge&logo=telegram&logoColor=white")][telegram]
-[![Website](https://img.shields.io/badge/discord-%237289da.svg?&style=for-the-badge&logo=discord&logoColor=white)](GyroGyro#2055)
+[![Website](https://img.shields.io/badge/discord-%237289da.svg?&style=for-the-badge&logo=discord&logoColor=white)](🌹~Gყɾσ#2055)
 
 <h2>I'm a Student and Developer</h2>
 
