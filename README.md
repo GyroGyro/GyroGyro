@@ -32,18 +32,17 @@
 ![Website](https://img.shields.io/badge/VS--CODE-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Website](https://img.shields.io/badge/AndroidStudio-%233DDC84.svg?&style=for-the-badge&logo=android-studio&logoColor=white)
 
+<h1 style="margin-top:20px;">Github Trophies 🏆</h1>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=GyroGyro&theme=dracula&margin-w=15&margin-h=15&title=Commit,Followers,Issues,Joined2020&row=1&no-frame=true)](https://github.com/GyroGyro)
+
 <h1 style="margin-top:30px;">⚡ Most Used Languages</h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyroGyro&langs_count=6&theme=cobalt&hide_border=true)](https://github.com/GyroGyro/)
 
 <h1>⚡ Github Stats</h1>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GyroGyro&count_private=true&show_icons=true&hide_border=true&theme=cobalt)](https://github.com/pythonhubpy/)
-
-<h1 style="margin-top:20px;">⚡ Weekly Stats</h1>
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GyroGyro&langs_count=6&theme=cobalt&hide_border=true)](https://github.com/GyroGyro/)
-
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GyroGyro&count_private=true&show_icons=true&hide_border=true&theme=cobalt)](https://github.com/GyroGyro/)
 
 [telegram]: https://t.me/GyroGyro
 [instagram]: https://www.instagram.com/GyroGyro.py
