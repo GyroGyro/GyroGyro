@@ -1,8 +1,6 @@
 <h1>Hey there 👋, I am GyroGyro</h1>
 
-[![Website](https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
-[![Website](https://img.shields.io/badge/telegram-%230088CC.svg?&style=for-the-badge&logo=telegram&logoColor=white")][telegram]
-[![Website](https://img.shields.io/badge/discord-%237289da.svg?&style=for-the-badge&logo=discord&logoColor=white)](🌹~Gყɾσ#2055)
+![](https://dcbadge.vercel.app/api/shield/375754598427918338?compact=true)
 
 <h2>I'm a Student and Developer</h2>
 
@@ -41,6 +39,3 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GyroGyro&layout=compact&count_private=true&show_icons=true&hide_border=true&theme=dracula)](https://github.com/GyroGyro/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyroGyro&langs_count=6&theme=dracula&hide_border=true)](https://github.com/GyroGyro/)
-
-[telegram]: https://t.me/GyroGyro
-[instagram]: https://www.instagram.com/GyroGyro.py
