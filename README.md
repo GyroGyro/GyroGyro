@@ -17,7 +17,6 @@
 ![Website](https://img.shields.io/badge/MySQL-%2300758F.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![Website](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![Website](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![Website](https://img.shields.io/badge/Apache%20Airflow%20-%23007A88.svg?&style=for-the-badge&logo=Apache-Airflow&logoColor=white)
 
 
 <h1>Tools ⚙</h1>
