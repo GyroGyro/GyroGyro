@@ -28,7 +28,6 @@
 ![Website](https://img.shields.io/badge/PyCharm-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
 ![Website](https://img.shields.io/badge/Eclipse-%232C2255.svg?&style=for-the-badge&logo=eclipse&logoColor=white)
 ![Website](https://img.shields.io/badge/VS--CODE-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Website](https://img.shields.io/badge/AndroidStudio-%233DDC84.svg?&style=for-the-badge&logo=android-studio&logoColor=white)
 
 <h1>Github Trophies 🏆</h1>
 
