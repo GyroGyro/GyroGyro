@@ -17,6 +17,8 @@
 ![Website](https://img.shields.io/badge/MySQL-%2300758F.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![Website](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![Website](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![Website](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Website](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 
 <h1>Tools ⚙</h1>
@@ -25,6 +27,7 @@
 ![Website](https://img.shields.io/badge/GIT-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Website](https://img.shields.io/badge/GITHUB-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![Website](https://img.shields.io/badge/VS--CODE-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Website](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 <h1>Github Trophies 🏆</h1>
 
