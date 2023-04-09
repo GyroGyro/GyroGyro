@@ -9,7 +9,7 @@
 - 👯‍♂️ I am looking to collaborate with other developers
 - ☕ I love energy drink
 
-<h3>Skills 🚀</h3> 
+<h1>Skills 🚀</h1> 
 
 ![Website](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![Website](https://img.shields.io/badge/java-%235382a1.svg?&style=for-the-badge&logo=java&logoColor=white)
@@ -18,7 +18,7 @@
 ![Website](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Website](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-<h4>Tools ⚙</h4>
+<h1>Tools ⚙</h1>
 
 ![Website](https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black)
 ![Website](https://img.shields.io/badge/GIT-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
@@ -26,16 +26,16 @@
 ![Website](https://img.shields.io/badge/VS--CODE-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Website](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-<h5>Database ⚡</h5>
+<h1>Database ⚡</h1>
 
 ![Website](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Website](https://img.shields.io/badge/MySQL-%2300758F.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
-<h6>Github Trophies 🏆</h6>
+<h1>Github Trophies 🏆</h1>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=GyroGyro&theme=dracula&margin-w=15&margin-h=15&title=Commit,Followers,Issues,Joined2020&row=1&no-frame=true)](https://github.com/GyroGyro)
 
-<h7>Github Stats ⚡</h7>
+<h1>Github Stats ⚡</h1>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GyroGyro&layout=compact&count_private=true&show_icons=true&hide_border=true&theme=dracula)](https://github.com/GyroGyro/)
 
