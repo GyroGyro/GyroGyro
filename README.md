@@ -9,19 +9,16 @@
 - 👯‍♂️ I am looking to collaborate with other developers
 - ☕ I love energy drink
 
-<h1>Skills 🚀</h1> 
+<h3>Skills 🚀</h3> 
 
 ![Website](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![Website](https://img.shields.io/badge/java-%235382a1.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![Website](https://img.shields.io/badge/javascript-%23F0DB4F.svg?&style=for-the-badge&logo=javascript&logoColor=white)
-![Website](https://img.shields.io/badge/MySQL-%2300758F.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![Website](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![Website](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![Website](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Website](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-
-<h1>Tools ⚙</h1>
+<h4>Tools ⚙</h4>
 
 ![Website](https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black)
 ![Website](https://img.shields.io/badge/GIT-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
@@ -29,11 +26,16 @@
 ![Website](https://img.shields.io/badge/VS--CODE-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Website](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-<h1>Github Trophies 🏆</h1>
+<h5>Database ⚡</h5>
+
+![Website](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Website](https://img.shields.io/badge/MySQL-%2300758F.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+
+<h6>Github Trophies 🏆</h6>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=GyroGyro&theme=dracula&margin-w=15&margin-h=15&title=Commit,Followers,Issues,Joined2020&row=1&no-frame=true)](https://github.com/GyroGyro)
 
-<h1>⚡ Github Stats</h1>
+<h7>Github Stats ⚡</h7>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GyroGyro&layout=compact&count_private=true&show_icons=true&hide_border=true&theme=dracula)](https://github.com/GyroGyro/)
 
